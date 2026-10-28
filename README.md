@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, we are mimzyandrue 🐾
 
-<!--
-**mimzyandrue/mimzyandrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account is operated by one human, under strict feline supervision.
 
-Here are some ideas to get you started:
+### Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mimzy — CEO.** Vocal, decisive, and expects to be carried to bed before she settles in as a leg-warming protector.
+- **Rudy — Head of 3AM Operations.** If something is scratching at 3AM, that is her department. Catering requests are handled nightly, whether anyone filed one or not.
+
+### Currently on the workbench
+
+- **Big Girl** — a Windows PC with ambitions
+- **The Steam Machine** — local AI experiments live here
+- Creative worlds, kept persistent on purpose
+- One very serious warehouse spreadsheet (management has reviewed it)
+
+Mostly, this is a fun little corner of the internet, built with Muse. 💜
